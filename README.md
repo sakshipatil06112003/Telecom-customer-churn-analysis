@@ -77,7 +77,11 @@ The following Power BI reports have been created:
 ### 6️⃣ Final Consolidated Report  
 
 This report brings together the most important and insightful visualizations from all the above analyses to present a high-level summary of churn trends, revenue impact, and high-risk customer segments.
-![Customer Churn Dashboard](Screenshots/Main_Dashboard.png)
+
+## 📊 Dashboard Preview  
+
+![Customer Churn Dashboard](Screenshot 2026-02-18 195629.png)
+
 
 ---
 
