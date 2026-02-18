@@ -106,6 +106,10 @@ It contains:
 - Billing and payment methods  
 - Target variable: Churn (Yes/No)
 
+📂 **Dataset File:**  
+- [Telco-Customer-Churn dataset.csv](Telco-Customer-Churn%20dataset.csv)
+
+
 ---
 
 ## 📌 About the Project  
