@@ -80,8 +80,7 @@ This report brings together the most important and insightful visualizations fro
 
 ## 📊 Dashboard Preview  
 
-![Customer Churn Dashboard](Screenshot 2026-02-18 195629.png)
-
+![Customer Churn Dashboard](Main_Dashboard.png)
 
 ---
 
